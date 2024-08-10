@@ -1,3 +1,4 @@
+
 def calculate(num1 : int, symbol : str, num2 : int):
     '''Calculates and returns the calculated value of the parameters'''
     match symbol:
